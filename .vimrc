@@ -43,5 +43,4 @@ call plug#begin()
     Plug 'tpope/vim-sensible'
     Plug 'scrooloose/nerdtree'
     Plug 'vim-airline/vim-airline'
-    Plug 'Valloric/YouCompleteMe'
 call plug#end()
